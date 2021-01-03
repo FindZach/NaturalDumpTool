@@ -7,4 +7,4 @@ It's a project leveraging Spring boot & Spring WebClient
 
 I am reading a REST API and saving the data into a JSON. 
 
-Created by - Zachary D. Smith (12/14/2020)
+Created by - Zach Smith (12/14/2020)

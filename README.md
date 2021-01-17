@@ -1,10 +1,8 @@
 # NaturalDumpTool
 Dumps OSRS Wikipedia for latest data. 
 
-Very early versions of this Tool.
+alpha stage
 
-It's a project leveraging Spring boot & Spring WebClient
+leveraging spring to read REST apis
 
-I am reading a REST API and saving the data into a JSON. 
-
-Created by - Zach Smith (12/14/2020)
+created by - Zach Smith
